@@ -103,7 +103,7 @@ goto :menu
 
 :support_developer
 REM Open link in default browser to support developer
-start "" "https://www.example.com/support-developer"
+start "" "https://www.youtube.com/channel/UCnJgNh1Jf3AA4Tc3EBSV6SA?sub_confirmation=1"
 
 :end
 
